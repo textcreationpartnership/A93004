@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Several resolves prepared by the commanding junto to pass the House.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93004</idno><idno type="EEBO-CITATION">99863572</idno>
+  <idno type="VID">168616</idno>
+  <idno type="EEBO-PROQUEST">2240950547</idno>
+  
+            <idno type="STC">Wing S2810</idno>
+            <idno type="STC">Thomason E986_11</idno>
+            <idno type="STC">ESTC R203735</idno>
+            <idno type="PROQUEST">99863572</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99863572e"/>
+            <note>(EEBO-TCP ; phase 2, no. A93004)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168616)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 147:E986[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Several resolves prepared by the commanding junto to pass the House.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "June. 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Political satire, English --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168616:1"/>
+            <p>Several RESOLVES Prepared By the Commanding JUNTO To pass The House.</p>
+            <p>Printed in the year, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168616:2"/>
+            <pb n="3" facs="tcp:168616:2"/>
+            <head>Several <hi>Resolves</hi> prepared by the commanding Iunto to pass the House.</head>
+            <p n="1">
+               <hi>I. REsolved,</hi> That the War with <hi>Spain</hi> be continued, in regard it multiplies the number of <hi>Beggers</hi> in the Nation, and consequently we shall have good Soldi<g ref="char:EOLhyphen"/>ers cheap to advance the Work of <hi>Reformation,</hi> be<g ref="char:EOLhyphen"/>ing it is received as an <hi>Orthodox Tradition,</hi> that broken <hi>Merchants</hi> make excellent <hi>Sword-men.</hi>
+            </p>
+            <p n="2">
+               <hi>II. Resolved,</hi> That since we can produce no more wise<g ref="char:EOLhyphen"/>men then what is in the Parliament and Council of State, nor no other <hi>Militia</hi> then 4000 Horse and Foot in <hi>London,</hi> That all the rest of the Nation be declared <hi>carnal</hi> and <hi>guilty</hi> of <hi>Sequestration.</hi>
+            </p>
+            <p n="3">
+               <hi>III. Resolved,</hi> That since the present <hi>Militia</hi> are so ac<g ref="char:EOLhyphen"/>customed to <hi>unhouse Parliaments,</hi> we establish a <hi>Country Militia</hi> under pretence of surpressing the <hi>Ca<g ref="char:EOLhyphen"/>valiers</hi> and shuffle them out, or force them upon some desperate Outlandish design, and so their <hi>Arrears</hi> shall be paid by their ruine.</p>
+            <p n="4">
+               <hi>IV. Resolved,</hi> That in regard those <hi>Water-Christians</hi> of the Fleet are a kinde of <hi>giddy headed Fellows,</hi> and possibly for want of pay may be apt to return to the obedience of <hi>Charls Stuart▪</hi> that there be forth<g ref="char:EOLhyphen"/>with an Order made to pay them out of the <hi>Excise</hi>
+               <pb n="4" facs="tcp:168616:3"/> and <hi>Custom</hi> of the <hi>IAMAICA</hi> Commodities; and in the interim, that <hi>Lawson</hi> be presently sent to divide the Navy, and stave them off their pay with Parson <hi>Peters</hi> old chears.</p>
+            <p n="5">
+               <hi>V. Resolved,</hi> That whatsoever <hi>Whimsey-buzzes</hi> in the Brains of the Officers, it be adjudged the sence of the private Soldiery, though they never be consulted with in the business.</p>
+            <p n="6">
+               <hi>VI. Resolved,</hi> That all such <hi>Officers</hi> as can pre<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>end to be Gentlemen, be turned off in regard they may re<g ref="char:EOLhyphen"/>tain some dregs of the <hi>Old English Honor</hi> and <hi>Liber<g ref="char:EOLhyphen"/>ty</hi> which is destructive to the present Work.</p>
+            <p n="7">
+               <hi>VII. Resolved,</hi> That the Army (except that in <hi>Scot<g ref="char:EOLhyphen"/>land</hi> and <hi>Ireland,</hi> and in the Fleet at Sea) for their good and faithful service to the <hi>Old Cause,</hi> be reward<g ref="char:EOLhyphen"/>ed with the <hi>Houses Livery,</hi> viz. <hi>Blue-Coats,</hi> and that that mark of the Beast and abomination of the Lord, their old <hi>Red-Coats</hi> with black Buttons of the gift of the late <hi>Tyrant,</hi> be taken off and hung up by the <hi>Scots Colours</hi> in <hi>Westminster</hi>-Hall, in token of <hi>Victory,</hi> and in the first year of the Restauration of our <hi>Liberty.</hi>
+            </p>
+            <p n="8">
+               <hi>VIII. Resolved,</hi> That the Soldiers be new shoo'd at the <hi>Commonwealths</hi> charge, and that my Lord <hi>Hewson,</hi> that experienced <hi>Artisicer,</hi> be intrusted with the sale of their old Commodities, to the end, the Com<g ref="char:EOLhyphen"/>monwealth may not be defrauded or deceived, and that the money arising from the sale of them, do go towards the satisfaction of their <hi>Arrears.</hi>
+            </p>
+            <p n="9">
+               <pb n="5" facs="tcp:168616:3"/>
+               <hi>IX. Resolved,</hi> That if the Army do not unhouse, mo<g ref="char:EOLhyphen"/>lest, or disturb us, that we assume our former au<g ref="char:EOLhyphen"/>thority and make them our slaves to fight our Bat<g ref="char:EOLhyphen"/>tels as formerly, while we enjoy the fat of the Land, for it is a great grief of heart to us, and a quenching of the spirit, to be aw'd as servants that formerly rul'd as Princes.</p>
+            <p n="10">X. <hi>Resolved,</hi> That if the City will once more give down their <hi>Milk</hi> for the promoting of the good <hi>Old Cause</hi> (which in the heat of their zeal they so highly extol'd, set up, preached, prayed and fought for, though to their great loss and repentance) that Mr. <hi>Peters</hi> (after this long and illegal divorce made be<g ref="char:EOLhyphen"/>twixt them and us by the late Tyrant <hi>Oliver</hi>) do again marry and unite us the Parliament of <hi>England</hi> and the City, that the <hi>Wedding</hi> be kept in the <hi>Guild-Hall;</hi> that a Banquet be provided at the Common<g ref="char:EOLhyphen"/>wealths charge; and that all Committee-men, Se<g ref="char:EOLhyphen"/>questrators, Excise-men, Informers, and other self-seeking Saints, the race of <hi>Iudas</hi> (our good and faith<g ref="char:EOLhyphen"/>ful servants) be there and assist us in the carrying on of that great work.</p>
+            <p n="11">
+               <hi>XI. Resolved,</hi> That there be a restraint upon Presbi<g ref="char:EOLhyphen"/>tery as well as Popery and Prelacy, because it somewhat resembles Christianity.</p>
+            <p n="12">
+               <hi>XII. Resolved,</hi> That there be a Collection of the seve<g ref="char:EOLhyphen"/>ral addresses to the late <hi>Tyrant</hi> and his Son, and pla<g ref="char:EOLhyphen"/>ced amongst <hi>Tredeskins</hi> Monsters to perpetua<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the infamy of all the powers both Ecclesiastical, Civil,
+<pb n="6" facs="tcp:168616:4"/> and Military, that hath governed <hi>England</hi> this five years.</p>
+            <p n="13">
+               <hi>XIII. Resolved,</hi> That Mr. <hi>William Prynn</hi> (provided he will forbear to set his and our sins before us) do fit in the house and return to his <hi>Recordership</hi> of the City of <hi>Bath.</hi>
+            </p>
+            <p n="14">
+               <hi>XIV. Resolved,</hi> that <hi>Henry Cromwel</hi> Lord Deputy of <hi>Ireland,</hi> and Son of the late <hi>Tyrant,</hi> do continue his absolute Power and command, untill the House can take it from him, and dispose of it otherwise.</p>
+            <p n="15">
+               <hi>XV. Resolved,</hi> That the late <hi>Protectors</hi> Relations or Kindred that did any way act against his interest in the promotion of the good <hi>Old Cause</hi> be rewar<g ref="char:EOLhyphen"/>ded, and to that purpose Mr. <hi>Whimsey Mildmay</hi> the Bauble keeper, is to consult with the remains of <hi>Archee</hi> for such a distinguishable habit as may be suitable to their merit.</p>
+            <p n="16">
+               <hi>XVI. Resolved,</hi> That when the City Marshal and the Sheriffs Beagles goe a Whore-hunting, they pass over the <hi>Seraglios</hi> of <hi>Hen. Martin,</hi> and Mr. <hi>Scot</hi> our Fellow Members, as two qualified <hi>Nunries</hi> to cool the concupiscence of the Saints.</p>
+            <p n="17">
+               <hi>XVII. Resolved,</hi> That the 5000 l. which the City ap<g ref="char:EOLhyphen"/>pointed for feasting his late Highness and new House of Peers, be distributed in <hi>Bedlam</hi> and <hi>Bride<g ref="char:EOLhyphen"/>wel</hi> at more indigent Fooles and Knaves.</p>
+            <p n="18">
+               <hi>XVIII. Resolved,</hi> That <hi>Moncks</hi> addresses be Voted nei<g ref="char:EOLhyphen"/>ther fast nor loose.</p>
+            <p n="19">
+               <pb n="7" facs="tcp:168616:4"/>
+               <hi>XIX. Resolved,</hi> That if their <hi>Catholick</hi> and <hi>Christian Majesties</hi> after this <hi>General Peace</hi> shall enterprise a <hi>Croysada,</hi> and begin with <hi>England</hi> as the most near adjacent <hi>Ins;idels</hi> that Mr. <hi>Manton</hi> (the Presbyteri<g ref="char:EOLhyphen"/>an) who is so large a Benefactor of the <hi>Devils,</hi> be appointed to Excommunicate them as Malignants and Enemies to <hi>Tender Consciences.</hi>
+            </p>
+            <p n="20">
+               <hi>XX. Resolved,</hi> That the late <hi>Tyrants</hi> design in helping the <hi>Swede</hi> our <hi>Fellow Laborer</hi> in Villanous oppression, be still supported with the expence of <hi>English</hi> Blood and Treasure.</p>
+            <p n="21">
+               <hi>XXI. Resolved,</hi> That there be no sort of <hi>Supplies</hi> sent to the poor▪ <hi>English</hi> Soldiers of <hi>Iamaica</hi> that are rot<g ref="char:EOLhyphen"/>ting there, until they send a considerable parcel of <hi>Pine-Apples, Gartuffoli,</hi> and <hi>Eringos,</hi> to fortifie the de<g ref="char:EOLhyphen"/>cayed Concupiscence of the <hi>Famous State Lechers.</hi>
+            </p>
+            <p n="22">
+               <hi>XXII. Resolved,</hi> That the House do take it into their consideration, whether our present Government may not be thought like that of the <hi>Romans</hi> under <hi>Nero</hi> and <hi>Heliogabulus,</hi> when <hi>Harry Nevil,</hi> sometime an eminent Burdash in <hi>Italy,</hi> is now so great a Favorit of the State.</p>
+            <p n="23">
+               <hi>XXIII. Resolved,</hi> That these <hi>Acts</hi> be forthwith Printed, that the Nation may see the <hi>glorious result</hi> of all their Blood and Treasure that hath been spent since they betraid their <hi>Liberties</hi> to their <hi>Slaves.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="8" facs="tcp:168616:5"/>
+            <head>Advertisement to the Soldiery.</head>
+            <p>TAke notice that there is no way left in this sad dispensation of <hi>Tyranny</hi> to the whole Nation of <hi>England,</hi> to represent their grievances, but with the hazard of their lives, to throw them about in a clandestine way, and the <hi>Tyrants</hi> fearing that these Discoverers in the end may rouze up the generous thoughts of forlorne English souls amongst you (have in imitation of <hi>Mahumet,</hi> who forbad all sort of Learning, lest the wickedness of his Law should be found out) made an Act that you shall not pry into those Papers that display the groans of their afflicted Country, and intend to continue you still the instruments of their lusts; which how glorious it is to have the infamous titles of Executioners and Hangmen of your Fellow-brethren, I leave to the meanest of you all to judge.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
